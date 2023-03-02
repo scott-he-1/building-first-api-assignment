@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1000000000,
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "12",
+    "classes": ["Engineering", "Math"]
+  },
+  {
+    "id": 1000000001,
+    "firstName": "Luke",
+    "lastName": "Skywalker",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "9",
+    "classes": ["Gym", "Sport Science"]
+  },
+  {
+    "id": 1000000002,
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "10",
+    "classes": ["Science"]
+  },
+  {
+    "id": 1000000003,
+    "firstName": "Eugene",
+    "lastName": "Krabs",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "11",
+    "classes": ["Economics"]
+  },
+  {
+    "id": 1000000004,
+    "firstName": "Sherlock",
+    "lastName": "Holmes",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "12",
+    "classes": ["History"]
+  },
+  {
+    "id": 1000000005,
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "12",
+    "classes": ["History", "Astronomy"]
+  },
+  {
+    "id": 1000000006,
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "5",
+    "classes": ["Math", "Literature"]
+  },
+  {
+    "id": 1000000007,
+    "firstName": "Jon",
+    "lastName": "Snow",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "9",
+    "classes": ["Fitness"]
+  },
+  {
+    "id": 1000000008,
+    "firstName": "Forrest",
+    "lastName": "Gump",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "12",
+    "classes": ["History"]
+  },
+  {
+    "id": 1000000009,
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "createdOn": "2023-03-02T02:00:38.260Z",
+    "updatedOn": "2023-03-02T02:00:38.260Z",
+    "grade": "6",
+    "classes": ["English"]
+  }
+]
